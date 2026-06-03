@@ -1,0 +1,5 @@
+# No server-side dependencies required.
+
+# Assets:
+# - Font Awesome 6.4.0 (CDN link included in index.html)
+# - Modern Web Browser (Chrome, Firefox, Edge, Safari)
